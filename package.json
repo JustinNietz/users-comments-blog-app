@@ -1,0 +1,25 @@
+{
+  "name": "users-comments-blog-app",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/JustinNietz/users-comments-blog-app.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/JustinNietz/users-comments-blog-app/issues"
+  },
+  "homepage": "https://github.com/JustinNietz/users-comments-blog-app#readme",
+  "dependencies": {
+    "express": "^4.16.3",
+    "mongoose": "^5.2.5",
+    "morgan": "^1.9.0",
+    "uuid": "^3.3.2"
+  }
+}
